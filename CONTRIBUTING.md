@@ -6,7 +6,7 @@
 -  Fork this [repository](https://github.com/DeepNinja07x/Tic_Tac_Toe)
   
 -  Clone the forked https://github.com/<Your_Username>/Tic_Tac_Toe
-    > git clone https://github.com/<Your_Username>/Typing-Speed-Test.git
+    > git clone https://github.com/<Your_Username>/Tic_Tac_Toe.git
 
 -  Create new branch 
     > git checkout -b <Your_Branch_Name>
