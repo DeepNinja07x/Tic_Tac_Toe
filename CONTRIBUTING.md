@@ -33,7 +33,7 @@
 
 - Add the upstream (main project's) repo's URL
 
-    > git remote add upstream https://github.com/DeepNinja07x/Typing-Speed-Test.git
+    > git remote add upstream https://github.com/DeepNinja07x/Tic_Tac_Toe.git
 
 - Now fetch all the new commits from upstream to your local repo.
 
